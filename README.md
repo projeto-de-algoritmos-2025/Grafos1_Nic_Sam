@@ -16,7 +16,7 @@
 
 ## 📌 Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona.
+A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
 ---
 
@@ -29,12 +29,19 @@ Exemplo:
 
 ## ⚙️ Instalação
 
-**Linguagem:** A definir  
-**Framework:** (caso exista)
+**Linguagem:** Python 3.*
+
 
 ### Pré-requisitos
 
+Python 3 instalado no sistema. 
 
 ### Como rodar
+
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/projeto-de-algoritmos-2025/Grafos1_Nic_Sam.git)
+cd seuRepositorio/Grafos1_Nic_Sam
+
+python3 nome_do_arquivo.py
+
 
 
