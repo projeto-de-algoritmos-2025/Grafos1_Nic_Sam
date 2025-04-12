@@ -39,6 +39,7 @@ Python 3 instalado no sistema.
 ### Como rodar
 
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/projeto-de-algoritmos-2025/Grafos1_Nic_Sam.git)
+<br>
 cd seuRepositorio/Grafos1_Nic_Sam
 
 python3 nome_do_arquivo.py
