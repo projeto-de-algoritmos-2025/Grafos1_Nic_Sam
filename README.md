@@ -18,6 +18,8 @@
 
 A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
+1° [Grafo Bipartido] [[https://leetcode.com/problems/is-graph-bipartite/description/]] - Nível Médio 
+
 ---
 
 ## 📸 Screenshots
