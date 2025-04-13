@@ -48,7 +48,7 @@ Python 3 instalado no sistema.
 
 Clone o Repositório
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/projeto-de-algoritmos-2025/Grafos1_Nic_Sam.git)
+git clone https://github.com/projeto-de-algoritmos-2025/Grafos1_Nic_Sam.git
 ```
 <br>
 
