@@ -57,6 +57,7 @@ Navegue até a pasta principal
 cd seuRepositorio/Grafos1_Nic_Sam
 ```
 <br>
+
 Escolha qual código você deseja testar e rode
 ```bash
 python3 nome_do_arquivo.py
