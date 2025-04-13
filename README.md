@@ -16,9 +16,15 @@
 
 ## 📌 Sobre
 
+## 🧠 Questões Desenvolvidas
+
 A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
-1° [Grafo Bipartido] [https://leetcode.com/problems/is-graph-bipartite/description/] - Nível Médio 
+1. [Grafo Bipartido](https://leetcode.com/problems/is-graph-bipartite/description/) - Nível Médio
+2. [Nome da Segunda Questão](URL) - Nível Médio
+3. [Nome da Terceira Questão](URL) - Nível Difícil
+4. [Nome da Quarta Questão](URL) - Nível Difícil
+
 
 ---
 
