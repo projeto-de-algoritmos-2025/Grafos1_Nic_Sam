@@ -21,8 +21,8 @@
 A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
 1. [Grafo Bipartido](https://leetcode.com/problems/is-graph-bipartite/description/) - Nível Médio
-2. [Nome da Segunda Questão](URL) - Nível Médio
-3. [Nome da Terceira Questão](URL) - Nível Difícil
+2. [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/?envType=problem-list-v2&envId=graph) - Nível Médio
+3. [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=problem-list-v2&envId=graph) - Nível Difícil
 4. [Nome da Quarta Questão](URL) - Nível Difícil
 
 
