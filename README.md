@@ -30,9 +30,6 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ## 📸 Screenshots
 
-Adicione 3 ou mais screenshots do projeto em funcionamento aqui.  
-Exemplo:
-
 ### ✅ Accepted Grafo Bipartido 
 
 ![Grafo Bipartido](imagens/bipartido.png)
