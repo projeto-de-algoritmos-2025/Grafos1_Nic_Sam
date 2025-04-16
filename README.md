@@ -41,8 +41,7 @@ Exemplo:
 
 ### ✅ Accepted Maior Ciclo
 
-![Grafo Bipartido ](imagens/maior_ciclo.png)
-
+![Grafo Bipartido ](imagens/maior_ciclo.jpg)
 
 ---
 
