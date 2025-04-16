@@ -33,6 +33,17 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 Adicione 3 ou mais screenshots do projeto em funcionamento aqui.  
 Exemplo:
 
+### ✅ Accepted Grafo Bipartido 
+
+![Grafo Bipartido ](\Grafos1_Nic_Sam\imagens\bipartido.png)
+
+<br>
+
+### ✅ Accepted Maior Ciclo
+
+![Grafo Bipartido ](\Grafos1_Nic_Sam\imagens\maior_ciclo.png)
+
+
 ---
 
 ## ⚙️ Instalação
