@@ -35,13 +35,13 @@ Exemplo:
 
 ### ✅ Accepted Grafo Bipartido 
 
-![Grafo Bipartido ](\Grafos1_Nic_Sam\imagens\bipartido.png)
+![Grafo Bipartido ](Grafos1_Nic_Sam\imagens\bipartido.png)
 
 <br>
 
 ### ✅ Accepted Maior Ciclo
 
-![Grafo Bipartido ](\Grafos1_Nic_Sam\imagens\maior_ciclo.png)
+![Grafo Bipartido ](Grafos1_Nic_Sam\imagens\maior_ciclo.png)
 
 
 ---
