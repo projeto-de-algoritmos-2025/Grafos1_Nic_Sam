@@ -40,6 +40,14 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ![Grafo Bipartido ](imagens/maior_ciclo.jpg)
 
+### ✅ Accepted All Paths From Source to Target 
+
+![Grafo Bipartido ](imagens/797.png)
+
+## ✅ Accepted Minimum Cost to Make at Least One Valid Path in a Grid 
+
+![Grafo Bipartido ](imagens/2.png)
+
 ---
 
 ## ⚙️ Instalação
