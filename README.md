@@ -1,6 +1,5 @@
 # Grafos1_Nic_Sam
 
-**Número da Lista:** X  
 **Conteúdo da Disciplina:** Grafos 1
 
 ---
